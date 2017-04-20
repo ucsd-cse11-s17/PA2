@@ -18,7 +18,7 @@ class ImageTweet {
 
 }
 
-class ExamplesTweetStarter {
+class ExamplesTweet {
   TextTweet t = new TextTweet();  
 
   String htmlTweet1 = t.toHTML();
